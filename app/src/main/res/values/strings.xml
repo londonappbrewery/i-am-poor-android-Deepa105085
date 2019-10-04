@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">I Am Poor</string>
+    <string name="title">I Am Poor</string>
+    <string name="body">This coal is my symbol. As diamond is for the RICH , coal is for the POOR.</string>
 </resources>
